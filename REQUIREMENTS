@@ -1,0 +1,5 @@
+django_mptt
+spyne
+lxml
+Django==1.8
+
